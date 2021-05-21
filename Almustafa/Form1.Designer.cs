@@ -207,7 +207,7 @@
             // 
             // button2
             // 
-            this.button2.BackgroundImage = global::Almustafa.Properties.Resources.button_cancel;
+            //this.button2.BackgroundImage = global::Almustafa.Properties.Resources.button_cancel;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button2.Location = new System.Drawing.Point(1201, 3);

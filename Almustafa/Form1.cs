@@ -79,7 +79,7 @@ namespace Almustafa
         { /*
             if (e.KeyCode == Keys.Enter)
             {
-                button1.PerformClick();
+                button1.PerformClick();//event enter press
 
             } */
         }

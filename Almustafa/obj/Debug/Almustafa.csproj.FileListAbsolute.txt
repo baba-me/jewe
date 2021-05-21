@@ -11,3 +11,6 @@ c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\D
 C:\Users\sadaqat\Documents\GitHub\jewe\Almustafa\bin\Debug\Almustafa.exe.config
 C:\Users\sadaqat\Documents\GitHub\jewe\Almustafa\obj\Debug\Almustafa.exe
 C:\Users\sadaqat\Documents\GitHub\jewe\Almustafa\obj\Debug\Almustafa.pdb
+C:\Users\sadaqat\Documents\GitHub\jewe\Almustafa\obj\Debug\Almustafa.csprojResolveAssemblyReference.cache
+C:\Users\sadaqat\Documents\GitHub\jewe\Almustafa\obj\Debug\Almustafa.Form1.resources
+C:\Users\sadaqat\Documents\GitHub\jewe\Almustafa\obj\Debug\Almustafa.csproj.GenerateResource.Cache
